@@ -32,7 +32,8 @@ Google Colab with NVCC Compiler
 TYPE YOUR CODE HERE
 
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
+<img width="1730" height="190" alt="image" src="https://github.com/user-attachments/assets/1b24f09b-7a04-4074-876f-5ffe0d237c22" />
+
 
 ## RESULT:
 Thus, Implementation of sum arrays on host and device is done in nvcc cuda using random number.
